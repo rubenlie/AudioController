@@ -1,0 +1,96 @@
+﻿
+Transactionele installatie wordt uitgevoerd.
+
+Begin van de Install-fase van de installatie.
+Raadpleeg de inhoud van het logboekbestand voor de voortgang van de assembly C:\Users\lieve\source\repos\AudioControllerFS\AudioControllerFS\bin\Release\AudioControllerFS.exe.
+Het bestand bevindt zich op C:\Users\lieve\source\repos\AudioControllerFS\AudioControllerFS\bin\Release\AudioControllerFS.InstallLog.
+
+De Install-fase is voltooid en de Commit-fase begint.
+Raadpleeg de inhoud van het logboekbestand voor de voortgang van de assembly C:\Users\lieve\source\repos\AudioControllerFS\AudioControllerFS\bin\Release\AudioControllerFS.exe.
+Het bestand bevindt zich op C:\Users\lieve\source\repos\AudioControllerFS\AudioControllerFS\bin\Release\AudioControllerFS.InstallLog.
+
+De Commit-fase is voltooid.
+
+De transactionele installatie is voltooid.
+
+Transactionele installatie wordt uitgevoerd.
+
+Begin van de Install-fase van de installatie.
+Raadpleeg de inhoud van het logboekbestand voor de voortgang van de assembly C:\Users\lieve\source\repos\AudioControllerFS\AudioControllerFS\bin\Release\AudioControllerFS.exe.
+Het bestand bevindt zich op C:\Users\lieve\source\repos\AudioControllerFS\AudioControllerFS\bin\Release\AudioControllerFS.InstallLog.
+
+Er is een uitzondering opgetreden tijdens de Install-fase.
+System.InvalidOperationException: Kan Service Control Manager op de computer . niet openen. Hiervoor zijn wellicht andere bevoegdheden vereist.
+De binnenste uitzondering System.ComponentModel.Win32Exception is opgetreden met het volgende foutbericht: Toegang geweigerd.
+
+De Rollback-fase van de installatie begint.
+Raadpleeg de inhoud van het logboekbestand voor de voortgang van de assembly C:\Users\lieve\source\repos\AudioControllerFS\AudioControllerFS\bin\Release\AudioControllerFS.exe.
+Het bestand bevindt zich op C:\Users\lieve\source\repos\AudioControllerFS\AudioControllerFS\bin\Release\AudioControllerFS.InstallLog.
+
+De Rollback-fase is voltooid.
+
+De transactionele installatie is voltooid.
+
+Transactionele installatie wordt uitgevoerd.
+
+Begin van de Install-fase van de installatie.
+Raadpleeg de inhoud van het logboekbestand voor de voortgang van de assembly C:\Users\lieve\source\repos\AudioControllerFS\AudioControllerFS\bin\Release\AudioControllerFS.exe.
+Het bestand bevindt zich op C:\Users\lieve\source\repos\AudioControllerFS\AudioControllerFS\bin\Release\AudioControllerFS.InstallLog.
+
+Er is een uitzondering opgetreden tijdens de Install-fase.
+System.InvalidOperationException: Kan Service Control Manager op de computer . niet openen. Hiervoor zijn wellicht andere bevoegdheden vereist.
+De binnenste uitzondering System.ComponentModel.Win32Exception is opgetreden met het volgende foutbericht: Toegang geweigerd.
+
+De Rollback-fase van de installatie begint.
+Raadpleeg de inhoud van het logboekbestand voor de voortgang van de assembly C:\Users\lieve\source\repos\AudioControllerFS\AudioControllerFS\bin\Release\AudioControllerFS.exe.
+Het bestand bevindt zich op C:\Users\lieve\source\repos\AudioControllerFS\AudioControllerFS\bin\Release\AudioControllerFS.InstallLog.
+
+De Rollback-fase is voltooid.
+
+De transactionele installatie is voltooid.
+
+Transactionele installatie wordt uitgevoerd.
+
+Begin van de Install-fase van de installatie.
+Raadpleeg de inhoud van het logboekbestand voor de voortgang van de assembly C:\Users\lieve\source\repos\AudioControllerFS\AudioControllerFS\bin\Release\AudioControllerFS.exe.
+Het bestand bevindt zich op C:\Users\lieve\source\repos\AudioControllerFS\AudioControllerFS\bin\Release\AudioControllerFS.InstallLog.
+
+De Install-fase is voltooid en de Commit-fase begint.
+Raadpleeg de inhoud van het logboekbestand voor de voortgang van de assembly C:\Users\lieve\source\repos\AudioControllerFS\AudioControllerFS\bin\Release\AudioControllerFS.exe.
+Het bestand bevindt zich op C:\Users\lieve\source\repos\AudioControllerFS\AudioControllerFS\bin\Release\AudioControllerFS.InstallLog.
+
+De Commit-fase is voltooid.
+
+De transactionele installatie is voltooid.
+
+Transactionele installatie wordt uitgevoerd.
+
+Begin van de Install-fase van de installatie.
+Raadpleeg de inhoud van het logboekbestand voor de voortgang van de assembly c:\Users\lieve\source\repos\AudioControllerFS\AudioControllerFS\bin\Release\AudioControllerFS.exe.
+Het bestand bevindt zich op c:\Users\lieve\source\repos\AudioControllerFS\AudioControllerFS\bin\Release\AudioControllerFS.InstallLog.
+
+Er is een uitzondering opgetreden tijdens de Install-fase.
+System.InvalidOperationException: Kan Service Control Manager op de computer . niet openen. Hiervoor zijn wellicht andere bevoegdheden vereist.
+De binnenste uitzondering System.ComponentModel.Win32Exception is opgetreden met het volgende foutbericht: Toegang geweigerd.
+
+De Rollback-fase van de installatie begint.
+Raadpleeg de inhoud van het logboekbestand voor de voortgang van de assembly c:\Users\lieve\source\repos\AudioControllerFS\AudioControllerFS\bin\Release\AudioControllerFS.exe.
+Het bestand bevindt zich op c:\Users\lieve\source\repos\AudioControllerFS\AudioControllerFS\bin\Release\AudioControllerFS.InstallLog.
+
+De Rollback-fase is voltooid.
+
+De transactionele installatie is voltooid.
+
+Transactionele installatie wordt uitgevoerd.
+
+Begin van de Install-fase van de installatie.
+Raadpleeg de inhoud van het logboekbestand voor de voortgang van de assembly c:\Users\lieve\source\repos\AudioControllerFS\AudioControllerFS\bin\Release\AudioControllerFS.exe.
+Het bestand bevindt zich op c:\Users\lieve\source\repos\AudioControllerFS\AudioControllerFS\bin\Release\AudioControllerFS.InstallLog.
+
+De Install-fase is voltooid en de Commit-fase begint.
+Raadpleeg de inhoud van het logboekbestand voor de voortgang van de assembly c:\Users\lieve\source\repos\AudioControllerFS\AudioControllerFS\bin\Release\AudioControllerFS.exe.
+Het bestand bevindt zich op c:\Users\lieve\source\repos\AudioControllerFS\AudioControllerFS\bin\Release\AudioControllerFS.InstallLog.
+
+De Commit-fase is voltooid.
+
+De transactionele installatie is voltooid.

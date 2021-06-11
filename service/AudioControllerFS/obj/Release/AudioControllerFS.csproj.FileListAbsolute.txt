@@ -1,0 +1,11 @@
+C:\Users\lieve\source\repos\AudioControllerFS\AudioControllerFS\bin\Release\AudioControllerFS.exe.config
+C:\Users\lieve\source\repos\AudioControllerFS\AudioControllerFS\bin\Release\AudioControllerFS.exe
+C:\Users\lieve\source\repos\AudioControllerFS\AudioControllerFS\bin\Release\AudioControllerFS.pdb
+C:\Users\lieve\source\repos\AudioControllerFS\AudioControllerFS\bin\Release\AudioSwitcher.AudioApi.CoreAudio.dll
+C:\Users\lieve\source\repos\AudioControllerFS\AudioControllerFS\bin\Release\AudioSwitcher.AudioApi.dll
+C:\Users\lieve\source\repos\AudioControllerFS\AudioControllerFS\obj\Release\AudioControllerFS.csprojAssemblyReference.cache
+C:\Users\lieve\source\repos\AudioControllerFS\AudioControllerFS\obj\Release\AudioControllerFS.ProjectInstaller.resources
+C:\Users\lieve\source\repos\AudioControllerFS\AudioControllerFS\obj\Release\AudioControllerFS.csproj.GenerateResource.cache
+C:\Users\lieve\source\repos\AudioControllerFS\AudioControllerFS\obj\Release\AudioControllerFS.csproj.CopyComplete
+C:\Users\lieve\source\repos\AudioControllerFS\AudioControllerFS\obj\Release\AudioControllerFS.exe
+C:\Users\lieve\source\repos\AudioControllerFS\AudioControllerFS\obj\Release\AudioControllerFS.pdb
